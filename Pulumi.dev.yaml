@@ -1,0 +1,4 @@
+config:
+  singleCluster: true
+  pulumi:tags:
+    pulumi:template: kubernetes-go

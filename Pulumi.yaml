@@ -1,0 +1,7 @@
+name: pulumi-k3d-multicluster
+runtime: go
+description: pulumi-kube-lab
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: kubernetes-go
